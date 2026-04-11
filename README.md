@@ -1,2 +1,3 @@
-# hospital-management-system-database
-Database design for Hospital Management
+# Hospital Management System Database
+
+Database design for managing hospital operations, including patients, staff, appointments, billing, and medical records.
